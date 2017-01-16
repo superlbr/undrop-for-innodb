@@ -43,7 +43,7 @@ There is a series of blog posts that describe in great details recovery from dif
  * [Recover after DROP TABLE. Case 2](https://twindb.com/recover-after-drop-table-innodb_file_per_table-on/) – how to recover InnoDB table if it was dropped and innodb_file_per_table was ON (a separate .ibd file per table).
  * [Recover after DROP TABLE. Case 1](https://twindb.com/recover-innodb-table-after-drop-table-innodb/) – how to recover InnoDB table if it was dropped and innodb_file_per_table was OFF (all tables are in ibadat1 file).
  * [Recover InnoDB dictionary](https://twindb.com/how-to-recover-innodb-dictionary/) – how to recover and read InnoDB dictionary tables.
- * [UnDROP tool for InnoDB](https://twindb.com/undrop-tool-for-innodb/) – describes tools of the toolkit, their usage, command line options.
+ * [UnDROP tool for InnoDB](https://twindb.com/undrop-tool-for-innodb/) – describes tools of the toolkit, their usage, command line options. [steps](http://dba.stackexchange.com/questions/23251/is-there-a-way-to-recover-a-dropped-mysql-database)
  * [InnoDB dictionary](https://twindb.com/innodb-dictionary/) – describes InnoDB dictionary, its tables and format.
 
 ## Commercial Support and Data Recovery Service
@@ -55,3 +55,5 @@ We can help you to do it much faster.
 Since 2008 he dealt with many hundreds recovery cases.
 
 Check [MySQL Data Recovery Service](https://twindb.com/mysql-data-recovery/) to learn more about prices, prerequisites and contact details.
+
+[Online Recovery Portal](https://recovery.twindb.com)
